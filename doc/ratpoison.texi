@@ -137,8 +137,8 @@ There is also a ratpoison mailing list:
 @email{ratpoison-devel@@nongnu.org}. For details on subscribing
 and for the list archives go to the ratpoison Savannah project.
 
-There is a @url{irc://irc.freenode.net/#ratpoison, #ratpoison} IRC
-channel on the @url{http://freenode/, Freenode} network.
+There is a @url{ircs://irc.libera.chat:6697/#ratpoison, #ratpoison} IRC
+channel on the @url{https://libera.chat, Libera.chat} network.
 
 @node Concepts
 @chapter Concepts
