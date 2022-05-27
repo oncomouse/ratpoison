@@ -26,6 +26,6 @@ MAINTAINERCLEANFILES	= Makefile.in aclocal.m4 configure src/config.h.in \
 
 SUBDIRS			= src doc contrib
 
-doc_DATA		= AUTHORS COPYING NEWS README
+doc_DATA		= AUTHORS COPYING NEWS
 
 EXTRA_DIST		= $(doc_DATA)
