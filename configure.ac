@@ -21,7 +21,7 @@ AC_INIT([ratpoison], [1.4.10-beta], [ratpoison-devel@nongnu.org])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_SRCDIR([src/main.c])
-AM_INIT_AUTOMAKE([-Wall -Werror gnu])
+AM_INIT_AUTOMAKE([foreign -Wall -Werror])
 
 AM_MAINTAINER_MODE([enable])
 
